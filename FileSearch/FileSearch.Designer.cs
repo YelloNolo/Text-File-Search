@@ -116,7 +116,6 @@
             // 
             // searchBar
             // 
-            this.searchBar.AcceptsReturn = true;
             this.searchBar.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.searchBar.Dock = System.Windows.Forms.DockStyle.Fill;
             this.searchBar.Location = new System.Drawing.Point(0, 0);
@@ -125,6 +124,7 @@
             this.searchBar.Size = new System.Drawing.Size(774, 38);
             this.searchBar.TabIndex = 3;
             this.searchBar.TextChanged += new System.EventHandler(this.searchBar_TextChanged);
+            this.searchBar.KeyDown += new System.Windows.Forms.KeyEventHandler(this.SearchBar_KeyDown);
             // 
             // SelectedFileDisplay
             // 
