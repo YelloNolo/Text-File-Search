@@ -6,7 +6,7 @@
 
 I needed a program that could search `.txt` files with 100,000+ lines of text fast. I was getting issues with notepad, and decided to learn VS Script and make an application.
 
-Is it simple? Yes. But it does it's job perfectly!
+Is it simple? Yes. But it does it's job perfectly (probobly)!
 
 ## ✅ Features
 
