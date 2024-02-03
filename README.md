@@ -4,7 +4,7 @@
 
 ## ❓ Why?
 
-I needed a program that could search `.txt` files with 100,000+ lines of text fast. I was getting issues with notepad, and decided to learn VS Script and make an application.
+I needed a program that could search `.txt` files with 100,000+ lines of text fast. Notepad was too slow. Therefor, I made my own.
 
 Is it simple? Yes. But it does it's job perfectly (probobly)!
 
@@ -20,7 +20,7 @@ Is it simple? Yes. But it does it's job perfectly (probobly)!
 -   [ ] Option to double click selects entire line (This or the previous)
 -   [ ] Color formatting based on patterns! 🎨
 
-## 📙 Drafts
+## 📙 ThinkBook
 
 - Patterns:
   -   Could color all lines that have a set ammount of matching words
