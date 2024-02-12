@@ -26,6 +26,6 @@ Is it simple? Yes. But it does it's job perfectly (probobly)!
   -   Could color all lines that have a set ammount of matching words
   -   Add more...
 
-[![GitHub release](https://img.shields.io/github/v/release/YelloNolo/Text-File-Search)](https://github.com/YelloNolo/Text-File-Search/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/YelloNox/Text-File-Search)](https://github.com/YelloNox/Text-File-Search/releases/)
 
-[![GitHub license](https://img.shields.io/github/license/YelloNolo/Text-File-Search)](https://github.com/YelloNolo/Text-File-Search/blob/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/YelloNox/Text-File-Search)](https://github.com/YelloNox/Text-File-Search/blob/master/LICENSE.txt)
